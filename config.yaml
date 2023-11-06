@@ -1,0 +1,11 @@
+name: "Batcontrol"
+description: "Controls the charging of the battery"
+version: "1.0.0"
+slug: "batcontrol"
+init: false
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386

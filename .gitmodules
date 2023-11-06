@@ -1,0 +1,3 @@
+[submodule "batcontrol"]
+	path = batcontrol
+	url = https://github.com/muexxl/batcontrol.git
